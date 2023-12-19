@@ -22,8 +22,9 @@ As comunicações entre cliente e servidor são baseadas no protocolo HTTP. As r
 
 Para começar, siga os passos abaixo.
 
-1. Certifique-se de ter o Node.js instalado no seu sistema.
+1. **Certifique-se de ter o Node.js instalado no seu sistema.**
 
+   Se você ainda não tem o Node.js instalado, você pode baixá-lo [aqui](https://nodejs.org/). Escolha a versão recomendada para a sua plataforma e siga as instruções de instalação.
 2. Crie um novo diretório para o projeto:
 
     ```bash
